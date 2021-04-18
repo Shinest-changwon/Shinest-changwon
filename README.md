@@ -1,7 +1,4 @@
-### Hi there 👋 I'm Changwon Yang
-
-<!--
-**Shinest-changwon/Shinest-changwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
+### Hi there 👋 I'm Changwon Yang  
 
 ### 🌱 I’m currently learning ...  
 - Python  
