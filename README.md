@@ -12,7 +12,7 @@
 - Object Tracking(DeepSORT)  
 
 ### 📖 I've studied at ...  
-- 모두의 연구소 AIFFEL: 2020.12.28 ~ NOW  
+- 모두의 연구소 AIFFEL: 2020.12.28 ~ 2021.06.22  
 - 광주 인공지능 사관학교 1기: 2020.05.21 ~ 2020.11.27  
 
 ### 🎉I've achived ...  
