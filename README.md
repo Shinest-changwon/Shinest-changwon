@@ -8,7 +8,8 @@
 - flask  
 - Computer Vision  
 - SLAM  
-- Autonomous driving  
+- Autonomous driving
+- Object Tracking(DeepSORT)  
 
 ### 📖 I've studied at ...  
 - 모두의 연구소 AIFFEL: 2020.12.28 ~ NOW  
