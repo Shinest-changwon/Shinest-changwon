@@ -22,7 +22,7 @@
 
 ### 🏢I'm working at Dogugonggan Co., Ltd.  
 - autonomous driving robot company  
-- JD: SW TEAM
+- Role: SW TEAM Navi. stack
 - address: YELP 119, Yonsei-ro 50, Seodaemun-gu, Seoul (03722)  
 
 ### 📫 About me ...  
