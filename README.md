@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Changwon Yang  
+### Hi there 👋 I'm CHANGWON YANG(a.k.a. SHATE:샤트)  
 
 ### 🌱 I’m currently learning ...  
 - Python  
